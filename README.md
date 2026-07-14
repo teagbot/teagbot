@@ -20,8 +20,8 @@ I enjoy working in the intersection of software engineering and physics. writing
 
 ### Links
 
-- 🔗 [LinkedIn](www.linkedin.com/in/teague-botterman-418a79363)
-- 📧 [Email](teaguebotterman@outlook.com)
+- 🔗 LinkedIn: www.linkedin.com/in/teague-botterman-418a79363
+- 📧 Email: teaguebotterman@outlook.com
 
 ---
 
