@@ -1,6 +1,6 @@
 # Teague Botterman
 
-Computer Science and Astrophysics student building scientific software and AI tools.
+Computer Science and Astrophysics student at the University of Alberta.
 
 ---
 
