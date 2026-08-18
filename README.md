@@ -4,12 +4,6 @@ Computer Science and Astrophysics student at the University of Alberta.
 
 ---
 
-### About
-
-I enjoy working in the intersection of software engineering and physics. writing scientific code, building practical tools, and exploring how AI can be applied to research and real life projects.
-
-**Interests:** scientific computing · numerical methods · astronomy data analysis · AI agents · applied software development
-
 ### Links
 
 - 🔗 LinkedIn: www.linkedin.com/in/teague-botterman-418a79363
