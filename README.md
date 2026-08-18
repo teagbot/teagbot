@@ -10,14 +10,6 @@ I enjoy working in the intersection of software engineering and physics. writing
 
 **Interests:** scientific computing · numerical methods · astronomy data analysis · AI agents · applied software development
 
----
-
-### Projects
-
-- Empty for now. Will be updated soon.
-
----
-
 ### Links
 
 - 🔗 LinkedIn: www.linkedin.com/in/teague-botterman-418a79363
